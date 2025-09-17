@@ -1,4 +1,4 @@
-#🔌 Arduino Projects Collection
+# 🔌 Arduino Projects Collection
 
 Kumpulan beberapa project Arduino untuk pembelajaran mikrokontroler.
 Project ini menggunakan komponen dasar seperti LED, tombol, 7-segment display, ultrasonic sensor, LCD, keypad, dan buzzer.
@@ -54,3 +54,9 @@ Buzzer Pin: 13
 📝 Catatan Tambahan
 
 ## Beberapa project Arduino lain tidak tersimpan dalam repo ini
+Akan ditambahkan jika file ditemukan.
+
+## Lisensi
+
+Proyek ini bersifat open-source.
+Bebas digunakan untuk pembelajaran, eksperimen, atau pengembangan lebih lanjut.
